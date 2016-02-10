@@ -1,0 +1,2 @@
+git checkout -b <new-branch> <existing-branch>
+This runs git branch <new-branch> before running git checkout <new-branch>
