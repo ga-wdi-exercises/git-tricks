@@ -1,0 +1,1 @@
+type $ git branch -r to list all remote branches
