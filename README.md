@@ -7,4 +7,6 @@ Share your git tricks here.
 
 The trick that I learned for today is:
 
+git branch -D = deletes any branch; -d does not delete branches that are not merged
+
 git checkout -b <new_branch_name> - create a new branch and check it out in one step
