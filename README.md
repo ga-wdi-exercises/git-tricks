@@ -13,16 +13,16 @@ Here's my whole cheat sheet:
 
 Git Cheat Sheet
 
-git init <dir> (creates empty repo in dir)
-git clone <repo> (clones from github; use SSH)
-git config user.name <name> (defines author)
-git add <dir> (stage changes for next commit)
-git commit  -m “message”
-git push origin master (pushes local up to remote rep)
-git status (lists staged files)
-git diff (show unstated changes between dir and index)
-git checkout -b <branch name> (creates and checks out new branch)
-git checkout <branch> (changes branch)
-git branch (displays branches)
-git revert <commit> (creates new commit that undoes all of changes in spec comm - enter commit ID from git log)
-git reset <file> (removes file from staging area, upstages without overwriting in changes)
+<br>git init <dir> (creates empty repo in dir) 
+<br>git clone <repo> (clones from github; use SSH)
+<br>git config user.name <name> (defines author)
+<br>git add <dir> (stage changes for next commit)
+<br>git commit  -m “message”
+<br>git push origin master (pushes local up to remote rep)
+<br>git status (lists staged files)
+<br>git diff (show unstated changes between dir and index)
+<br>git checkout -b <branch name> (creates and checks out new branch)
+<br>git checkout <branch> (changes branch)
+<br>git branch (displays branches)
+<br>git revert <commit> (creates new commit that undoes all of changes in spec comm - enter commit ID from git log)
+<br>git reset <file> (removes file from staging area, upstages without overwriting in changes)
