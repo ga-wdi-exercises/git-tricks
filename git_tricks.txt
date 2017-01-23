@@ -1,0 +1,3 @@
+$ git branch --> showing local branches
+$ git branch -r --> showing Remote branches
+$ git branch -a --> showing All branches (local & remote)
