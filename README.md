@@ -8,3 +8,7 @@ Share your git tricks here.
 The trick that I learned for today is:
 
 git checkout -b <new_branch_name> - create a new branch and check it out in one step
+
+Savraj Singh
+I learned that there is a difference between making a branch remotely and making a brach locally.
+This is the changed file. 
