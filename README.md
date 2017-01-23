@@ -7,4 +7,7 @@ Share your git tricks here.
 
 The trick that I learned for today is:
 
-git checkout -b <new_branch_name> - create a new branch and check it out in one step
+git checkout -b <new_branch_name> - create a new branch and check it out in one ste
+
+
+git revert (whatever the code is from your git log) will revert your branch to a previous commit
