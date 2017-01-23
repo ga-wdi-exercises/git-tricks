@@ -8,3 +8,8 @@ Share your git tricks here.
 The trick that I learned for today is:
 
 git checkout -b <new_branch_name> - create a new branch and check it out in one step
+
+The Trick I learned today was to 
+- to add and commit all the modified files but not newly created files.
+
+git commit -am "message for the commit"
