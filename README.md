@@ -8,3 +8,5 @@ Share your git tricks here.
 The trick that I learned for today is:
 
 git checkout -b <new_branch_name> - create a new branch and check it out in one step
+
+git branch -vv : List all branches and their upstreams, as well as last commit on branch
