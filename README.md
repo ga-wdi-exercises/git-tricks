@@ -7,4 +7,4 @@ Share your git tricks here.
 
 The trick that I learned for today is:
 
-git checkout -b <new_branch_name> - create a new branch and check it out in one step
+git commit -a -m commit and add at the same time 
