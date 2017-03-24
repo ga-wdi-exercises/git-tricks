@@ -1,0 +1,3 @@
+I just learned that if you use "git merge master" from inside the "branch {feature}"
+then you did not edit the master, you added any new master commits to the branch. you ha
+ve to go into master and then hit "git merge feature"
