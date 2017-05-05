@@ -1,0 +1,1 @@
+I learned how to create a branch whilst moving to the branch as a checkpoint indicating that I am currently on a working checkpoint that I may add commands that are directed to the current highlighted branch. EG. Merging.
