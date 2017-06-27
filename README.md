@@ -6,4 +6,3 @@ Share your git tricks here.
 - `git checkout -b <new_branch_name>`: Create a new branch and check it out in one step
 - `git stash save`: Save your local modifications to a stash and roll your working directory back to HEAD
 - `git stash pop`: Remove the most recent stash from the list and apply to the working directory
-- `git stash list`: Show all stashed changes
