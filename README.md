@@ -7,3 +7,4 @@ Share your git tricks here.
 - `git stash save`: Save your local modifications to a stash and roll your working directory back to HEAD
 - `git stash list`: Show all stashed changes
 - `git stash work`: shows work
+- `git branch`: lists local repositories 
