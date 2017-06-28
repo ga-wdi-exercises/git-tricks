@@ -7,3 +7,6 @@ Share your git tricks here.
 - `git stash save`: Save your local modifications to a stash and roll your working directory back to HEAD
 - `git stash list`: Show all stashed changes
 - 'git stash apply <commit>':The command saves your local modifications away and reverts the working directory to match the HEAD commit.fdfdfd
+
+
+
