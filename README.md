@@ -7,3 +7,4 @@ Share your git tricks here.
 - `git stash save`: Save your local modifications to a stash and roll your working directory back to HEAD
 - `git stash pop`: Remove the most recent stash from the list and apply to the working directory
 - `git stash list`: Show all stashed changes
+- `git stash apply <commit>`: Apply specific stashed change 
