@@ -8,4 +8,4 @@ Share your git tricks here.
 - `git stash list`: Show all stashed changes
 - 'git stash apply': <commit>
 
-
+it's so fluffy i'm gonna die
