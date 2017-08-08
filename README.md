@@ -8,4 +8,4 @@ Share your git tricks here.
 - `git stash list`: Show all stashed changes
 - 'git stash apply': <commit>
 
-
+if you use git checkout -b, it switches to and creates a branch
